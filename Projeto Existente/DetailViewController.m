@@ -4,7 +4,9 @@
 //
 //  Created by Bruno Rodrigues de Andrade on 29/07/14.
 //  Copyright (c) 2014 Bruno Rodrigues de Andrade. All rights reserved.
-//
+
+
+//Comentário aletatório huehuehuehuehuehuehue
 
 #import "DetailViewController.h"
 
@@ -44,6 +46,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor redColor];
     [self configureView];
 }
 
